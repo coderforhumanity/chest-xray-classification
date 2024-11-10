@@ -1,0 +1,14 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="patPmYNKRGwQYh77u.fc4974bd6b10e28bfe203eb91eecf4519031e213d3425ad0ca12fd9ce2823ff1" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
